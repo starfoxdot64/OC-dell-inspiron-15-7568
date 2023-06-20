@@ -12,4 +12,4 @@ Still not sure how to fix that just yet, but I'll get there.
 # Troubleshooting, as of 6/20/2023
 
 - Keyboard and mouse not responding on wake
-  This seems to be a hinge thing, so try flipping it into tablet mode for a minute, then flipping it back to laptop mode. Linux has similar issues, weirdly, but closing it and opening it sometimes unlocks the keys.
+  - This seems to be a hinge thing, so try flipping it into tablet mode for a minute, then flipping it back to laptop mode. Linux has similar issues, weirdly, but closing it and opening it sometimes unlocks the keys.
